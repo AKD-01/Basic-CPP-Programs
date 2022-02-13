@@ -7,10 +7,10 @@ int choice;
 cout << "ENTER TWO NO. \n";
 cin >> x >> y;
 cout << "WHICH OPERATION DO YOU WANT TO PERFORM \n";
-cout << "ADDITION...1 \n";
-cout << "SUBTRACTION...2 \n";
-cout << "MULTIPLICATION...3 \n";
-cout << "DIVISION...4 \n";
+cout << "ADDITION : 1 \n";
+cout << "SUBTRACTION : 2 \n";
+cout << "MULTIPLICATION : 3 \n";
+cout << "DIVISION : 4 \n";
 cin >> choice;
 if (choice == 1)
 { 
