@@ -9,8 +9,8 @@ int main()
     strcpy(b,a);
     strrev(b);
     if(strcmp(a,b)==0)
-    cout<<"ENTER STRING IS PALINDROME.";
+    cout<<"ENTERED STRING IS PALINDROME.";
     else
-    cout<<"ENTER STRING IS NOT A PALINDROME.";
+    cout<<"ENTERED STRING IS NOT A PALINDROME.";
     return 0;
 }
